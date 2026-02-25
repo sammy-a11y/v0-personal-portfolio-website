@@ -52,7 +52,7 @@ export function FeaturedProjects() {
 
         {/* Projects grid */}
         <div className="mt-12 grid gap-6 md:grid-cols-2">
-          {projects.map((project) => (
+          {projects.map((project, index) => (
             <Link
               key={project.title}
               href="/portfolio"
@@ -63,6 +63,7 @@ export function FeaturedProjects() {
                   src={project.image}
                   alt={project.title}
                   fill
+                  priority={index < 4}
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-background/0 transition-colors group-hover:bg-background/10" />
