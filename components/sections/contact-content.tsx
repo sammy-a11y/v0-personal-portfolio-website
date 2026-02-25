@@ -11,20 +11,20 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@bigflow.design",
-    href: "mailto:hello@bigflow.design",
+    value: "sammybucther832@gmail.com",
+    href: "mailto:sammybucther832@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (234) 567-890",
-    href: "tel:+1234567890",
+    value: "+2349169530731",
+    href: "tel:+2349169530731",
   },
   {
     icon: MessageCircle,
     label: "WhatsApp",
     value: "Chat with me",
-    href: "https://wa.me/1234567890",
+    href: "https://wa.me/2349169530731",
   },
   {
     icon: MapPin,
@@ -40,6 +40,7 @@ const socialLinks = [
   { name: "LinkedIn", href: "https://linkedin.com" },
   { name: "Behance", href: "https://behance.net" },
   { name: "Dribbble", href: "https://dribbble.com" },
+  { name: "Tiktok", href: "https://tiktok.com" },
 ]
 
 export function ContactContent() {
