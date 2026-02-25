@@ -18,7 +18,7 @@ const contactInfo = [
     icon: Phone,
     label: "Phone",
     value: "+234 9169530731",
-    href: "tel:+1234567890",
+    href: "tel:+2349169530731",
   },
   {
     icon: MessageCircle,
