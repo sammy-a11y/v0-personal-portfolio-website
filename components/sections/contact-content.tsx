@@ -12,12 +12,12 @@ const contactInfo = [
     icon: Mail,
     label: "Email",
     value: "sammybucther832@gmail.com",
-    href: "mailto:sammybucther832@gmail.com",
+    href: "mailto:sammybucther832@gmail.com?subject=Project Inquiry&body=Hello BIG FLOW,"
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+234 9169530731",
+    value: "+2349169530731",
     href: "tel:+2349169530731",
   },
   {
