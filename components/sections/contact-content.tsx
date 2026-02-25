@@ -11,8 +11,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@bigflow.design",
-    href: "mailto:hello@bigflow.design",
+    value: "sammybucther832@gmail.com",
+    href: "mailto:sammybucther832@gmail.com",
   },
   {
     icon: Phone,
@@ -40,6 +40,7 @@ const socialLinks = [
   { name: "LinkedIn", href: "https://linkedin.com" },
   { name: "Behance", href: "https://behance.net" },
   { name: "Dribbble", href: "https://dribbble.com" },
+  { name: "Tiktok", href: "https://tiktok.com" }
 ]
 
 export function ContactContent() {
