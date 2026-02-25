@@ -27,6 +27,7 @@ const socialLinks = [
   { href: "https://instagram.com", label: "Instagram" },
   { href: "https://linkedin.com", label: "LinkedIn" },
   { href: "https://behance.net", label: "Behance" },
+  { href: "https://tiktok.com", label: "Tiktok" },
 ]
 
 export function Footer() {
