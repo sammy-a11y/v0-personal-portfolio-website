@@ -24,7 +24,7 @@ const contactInfo = [
     icon: MessageCircle,
     label: "WhatsApp",
     value: "Chat with me",
-    href: "https://wa.me/2349169530731",
+    href: "https://wa.me/+2349169530731",
   },
   {
     icon: MapPin,
